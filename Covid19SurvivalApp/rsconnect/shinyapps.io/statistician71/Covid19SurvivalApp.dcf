@@ -1,0 +1,13 @@
+name: Covid19SurvivalApp
+title: Covid19SurvivalApp
+username:
+account: statistician71
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2114056
+bundleId: 3021515
+url: https://statistician71.shinyapps.io/Covid19SurvivalApp/
+when: 1587034377.31122
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data.csv|DataCorona.csv
