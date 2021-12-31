@@ -8,7 +8,7 @@ To know the survival probability of a covid-19 patient we can use this web appli
 
 ## Model and Data:
 
-Random forest model (around 87% accuracy), 112 patient data ! 
+Random forest model (around 87% accuracy), 112 patient data ! To get the appropriate patient level data is too difficult. I worked on this project on 2020 and the mother data collected from Kaggle. After some preprocessing I used the data in the project for the prediction. 
 
 ## Further Improvement:
 1. We can use more patient data. 
